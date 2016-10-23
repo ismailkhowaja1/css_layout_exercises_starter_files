@@ -1,0 +1,33 @@
+body{
+	font-size: 0;
+}
+
+#main-box{
+	width: 800px;
+	height: 500px;
+	margin: auto;
+	background-color: pink;
+	mar
+}
+
+#top-box{
+	width: 50%;
+	height: 200px;
+	background-color: yellow;
+}
+
+.main-bottom{
+	
+}
+#bottom-box, #bottom-box2, #bottom-box3{
+	background-color: black;
+	height: 300px;
+	width: 33.3%;
+	display: inline-block;
+}
+#bottom-box2{
+	background-color: green;
+}
+#bottom-box3{
+	background-color: red;
+}
