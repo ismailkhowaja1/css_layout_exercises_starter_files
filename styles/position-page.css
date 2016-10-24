@@ -10,6 +10,8 @@ body{
 nav{
 	margin-top: 0;
 	position: fixed;
+	top: 0%;
+	width: 100%;
 	text-align: left;
 	background-color: grey;
 	height: 70px;
